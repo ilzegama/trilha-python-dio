@@ -1,7 +1,7 @@
 frutas = ["laranja", "maca", "uva"]
 print(frutas)
 
-frutas = []
+frutas = [0]
 print(frutas)
 
 letras = list("python")
